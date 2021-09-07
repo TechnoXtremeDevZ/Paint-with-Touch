@@ -1,0 +1,15 @@
+﻿body {
+    text-align: center;
+    background-image: url("https://www.forbes.com/advisor/wp-content/uploads/2021/04/featured-image-types-of-paint.jpeg.jpg");
+    background-position:center;
+    background-size:cover;
+}
+#pwt_title {
+    color:darkorange;
+}
+#touch_canvas {
+    background-color: white;
+    border-width: 10px;
+    border-style: ridge;
+    border-color: aquamarine;
+}
